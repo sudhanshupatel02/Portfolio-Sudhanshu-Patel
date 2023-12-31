@@ -11,12 +11,11 @@
   "description": "vivek kumar portfolio website",
   "main": "index.js",
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^3.0.2"
   },
   "scripts": {
     "start": "node index.js",
-    "dev":"nodemon index.js"
-   
+    "dev": "nodemon index.js"
   },
   "author": "vivek kumar",
   "license": "ISC"
