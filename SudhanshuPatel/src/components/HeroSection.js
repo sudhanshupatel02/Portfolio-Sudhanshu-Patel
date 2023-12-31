@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Typed from 'react-typed';
+// import Typed from 'react-typed';
 
 export default function HeroSection() {
 
@@ -10,14 +10,15 @@ export default function HeroSection() {
       <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
         <div className="hero-container" data-aos="fade-in">
           <h1>Sudhanshu Patel</h1>
-          <p>I'm          
-            <Typed
+          <p>I'm Full stack Developer         
+            {/* <Typed
             strings={[" Full stack Developer", " Frontend Developer"]}
             typeSpeed={150}
             backSpeed={100}
             loop
           >
-          </Typed>  </p>
+          </Typed>   */}
+          </p>
 
           {/* button html start */}
           <a href="https://drive.google.com/drive/folders/1d-_1Cfi2QYGwG54nmhGD3V-Ab80AZTGV" download><div data-tooltip="Size: 10kb" className="button">  
