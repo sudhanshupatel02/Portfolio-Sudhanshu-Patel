@@ -40,8 +40,8 @@ export default function PortfolioSection() {
                         <p className="card-text">A portfolio website is a personal website that showcases a person's skills, experience, and accomplishments, typically in a professional context.</p>
                     </div>
                     <div className="card-footer">
-                        <a href='https://github.com/sudhanshupatel02/newsapi' className="projectbtn mx-2">Live</a>
-                        <a href='https://github.com/sudhanshupatel02/newsapi' className="projectbtn mx-2"> &lt;/&gt; Code</a>
+                        <a href='https://github.com/sudhanshupatel02/Portfolio-Sudhanshu-Patel' className="projectbtn mx-2">Live</a>
+                        <a href='https://github.com/sudhanshupatel02/Portfolio-Sudhanshu-Patel' className="projectbtn mx-2"> &lt;/&gt; Code</a>
                     </div>
                 </div>
 
